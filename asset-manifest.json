@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bmi/static/css/main.12c0eb22.chunk.css",
+    "main.js": "/bmi/static/js/main.d4bd2bc0.chunk.js",
+    "main.js.map": "/bmi/static/js/main.d4bd2bc0.chunk.js.map",
+    "runtime-main.js": "/bmi/static/js/runtime-main.1194f7ce.js",
+    "runtime-main.js.map": "/bmi/static/js/runtime-main.1194f7ce.js.map",
+    "static/js/2.afdc997a.chunk.js": "/bmi/static/js/2.afdc997a.chunk.js",
+    "static/js/2.afdc997a.chunk.js.map": "/bmi/static/js/2.afdc997a.chunk.js.map",
+    "index.html": "/bmi/index.html",
+    "static/css/main.12c0eb22.chunk.css.map": "/bmi/static/css/main.12c0eb22.chunk.css.map",
+    "static/js/2.afdc997a.chunk.js.LICENSE.txt": "/bmi/static/js/2.afdc997a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/bmi/static/media/Sweetly Broken.f51aad72.ttf",
+    "static/media/bmi.7104ead8.png": "/bmi/static/media/bmi.7104ead8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1194f7ce.js",
+    "static/js/2.afdc997a.chunk.js",
+    "static/css/main.12c0eb22.chunk.css",
+    "static/js/main.d4bd2bc0.chunk.js"
+  ]
+}
